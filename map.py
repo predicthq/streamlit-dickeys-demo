@@ -42,6 +42,9 @@ def map():
     ):
         return
 
+    st.markdown(
+        "<img src='app/static/1200px-Dickeys_Barbecue_Pit_Logo.png' width='160' />", unsafe_allow_html=True
+    )
     st.header(location["name"])
 
     # Display metrics
