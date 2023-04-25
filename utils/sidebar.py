@@ -178,5 +178,5 @@ def show_map_sidebar_code_examples():
             st.markdown(get_code_example(example["filename"]))
 
     st.sidebar.caption(
-        "Get the code for this app at [GitHub](https://github.com/predicthq/streamlit-restaurant-demo)"
+        "Get the code for this app at [GitHub](https://github.com/predicthq/streamlit-dickeys-demo)"
     )
