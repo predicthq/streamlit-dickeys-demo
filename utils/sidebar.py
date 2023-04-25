@@ -10,7 +10,7 @@ def show_sidebar_options():
         {
             "id": "new-york",
             "name": "Brooklyn, NY",
-            "address": "196A Flatbush Ave, Brooklyn",
+            "address": "196A Flatbush Ave",
             "lat": 40.68175,
             "lon": -73.97597,
             "tz": "America/New_York",
