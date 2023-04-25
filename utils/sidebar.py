@@ -26,15 +26,6 @@ def show_sidebar_options():
             "units": "imperial",
         },
         {
-            "id": "chicago",
-            "name": "Chicago, IL",
-            "address": "2537 S Wabash Ave",
-            "lat": 41.85125,
-            "lon": -87.60533,
-            "tz": "America/Chicago",
-            "units": "imperial",
-        },
-        {
             "id": "ohio",
             "name": "Cincinnati, OH",
             "address": "4500 Montgomery Road",
