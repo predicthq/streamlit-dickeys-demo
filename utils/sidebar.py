@@ -26,15 +26,6 @@ def show_sidebar_options():
             "units": "imperial",
         },
         {
-            "id": "louisianna",
-            "name": "Lafayette, LA",
-            "address": "111 Old Camp Road",
-            "lat": 30.15724,
-            "lon": -92.04334, 
-            "tz": "America/Los_Angeles",
-            "units": "imperial",
-        },
-        {
             "id": "florida",
             "name": "Orlando, FL",
             "address": "18 N Dollins Ave",
